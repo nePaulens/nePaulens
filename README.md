@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nePaulens
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on pretty much anything
+- 👋 Hi, I’m Paul
+- 👀 Currently a student at 42Wolfsburg
+- 🌱 I’m currently learning C, Python and Cyber Security
+- 💞️ Love participating in CTFs
 - 📫 How to reach me Discord: nePaulens#7287
