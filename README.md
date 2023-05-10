@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul
-- 👀 Currently a student at 42Wolfsburg
-- 🌱 I’m currently learning C, Python and multiple subjects related to Cyber Security (Forensics, analysis)
+- 👀 Currently a student at IU
+- 🌱 I’m currently learning Python, Networking and multiple subjects related to Cyber Security (Forensics, analysis)
 - 💞️ Love participating in CTFs
 - 📫 How to reach me Discord: nePaulens#7287
