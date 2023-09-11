@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul
-- 👀 Currently a student at IU
-- 🌱 I’m currently learning Python, Networking and multiple subjects related to Cyber Security (Forensics, analysis)
+- 👀 Currently studying cybersecurity
+- 🌱 Always happy to collab for bug bounties, research projects, and security related tools
 - 💞️ Love participating in CTFs
 - 📫 How to reach me Discord: nePaulens#7287
