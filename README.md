@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Paul
-- 👀 Currently studying cybersecurity
-- 🌱 Always happy to collab for bug bounties, research projects, and security related tools
-- 💞️ Love participating in CTFs
-- 📫 How to reach me Discord: nePaulens#7287
+- 👋 Hi
